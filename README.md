@@ -19,4 +19,3 @@ I'm [Nathalya Muniz!](https://github.com/nnmuniz) 👋
 ##  About me
 
 - Certificados: [youracclaim](https://www.youracclaim.com/users/nathalya-campos)
-
