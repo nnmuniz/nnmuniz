@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Nathalya Muniz!](https://github.com/nnmuniz) 👋
+I'm [Nathalya Muniz!](https://linktr.ee/nnmuniz) 👋
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nnmuniz)](https://github.com/nnmuniz)
