@@ -15,6 +15,7 @@ I'm [Nathalya Muniz!](https://linktr.ee/nnmuniz) 👋
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nnmuniz&layout=compact&theme=cobalt" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnmuniz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  About me
 
