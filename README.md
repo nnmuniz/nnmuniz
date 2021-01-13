@@ -9,12 +9,6 @@ I'm [Nathalya Muniz!](https://linktr.ee/nnmuniz) 👋
 <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
 <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nnmuniz&layout=compact&theme=cobalt" />
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnmuniz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  About me
