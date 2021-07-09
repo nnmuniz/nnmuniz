@@ -2,7 +2,19 @@
 
 I'm [Nathalya Muniz!](https://linktr.ee/nnmuniz) 👋 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnmuniz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+<p align="center">
+   <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnmuniz&layout=compact&theme=tokyonight"
+    />
+  <img   
+      align="center"
+      height="165" 
+       src="https://github-readme-stats.vercel.app/api?username=nnmuniz&show_icons=true&theme=tokyonight"
+    />
+</p>
 
 ##  About me
 
